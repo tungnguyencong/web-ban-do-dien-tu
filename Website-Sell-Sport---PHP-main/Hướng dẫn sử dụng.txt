@@ -1,0 +1,4 @@
+Import file sql của web trong folder database.
+Account Quản Trị Viên :
+Tên tài khoản:admin
+Password:admin
